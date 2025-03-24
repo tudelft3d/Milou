@@ -1,0 +1,15 @@
+How to do make remote measurements with Milou
+
+1- Turn it on and wait for 5 minutes
+2- Make sure the SenseLab Laptop is connected to Ethernet
+3- Click on the network icon on the bottom right and choose "Wireless Milou" as a network
+(N.B.: If you don't see it yet, wait a bit more or refresh the network's list)
+4- Plug in the Dantec dongle into the Laptop
+5- Open the Dantec software "ComfortSense".
+6- If not already open, open VirtualHere (see Downloads).
+One window will have "RaspberryPi" with a green dot next to it.
+Underneath it, you will see a USB that starts with "NI...".
+Right click on that USB and click "Use device"
+7- Go to Dantec software and navigate to where you need to go.
+8- (Optional) There is a python code to automate the process of measuring the parameters.
+Otherwise you can do the measurements yourself :)

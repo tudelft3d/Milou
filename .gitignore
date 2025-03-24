@@ -1,0 +1,6 @@
+# Exclude postprocessing subdirectories
+postprocessing/data/
+postprocessing/venv/
+postprocessing/output/
+building_milou/rp_to_mu_connection/.idea/
+postprocessing/.idea/
