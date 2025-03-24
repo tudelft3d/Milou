@@ -10,7 +10,7 @@ This repository accompanies the paper [Milou: a low-cost open-source line-follow
 ## Description of directories
 
 1. `building_milou`: contains the drawings to laser cut and 3d print all parts of Milou in `drawings`, the Arduino code needed to run Milou in `milou_line_following`, and the code needed to connect Milou to a computer remotely in `rp_to_mu_connection`.
-2. `postprocessing`: contains three Python files that use data from [4TU?]. requirements.txt contains the dependencies to run the python code.
+2. `postprocessing`: contains three Python files that use the data from this [4TU repository](https://doi.org/10.4121/41307b71-2096-4a31-82ba-f523a18c109a). requirements.txt contains the dependencies to run the python code.
 
 ## Parts
 The following is a list of all the parts we used to build Milou.
