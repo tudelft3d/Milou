@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use the software or the blueprints of Milou, please cite this work as below. A publication is under review at the moment and we will add that once it is published"
+authors:
+- family-names: "Hobeika"
+  given-names: "Nadine"
+  orcid: "https://orcid.org/0000-0002-3333-7959"
+- family-names: "Peters"
+  given-names: "Ravi"
+  orcid: "https://orcid.org/0000-0003-0342-440X"
+- family-names: "Hobeika"
+  given-names: "Elio"
+  orcid: ""
+- family-names: "García-Sánchez"
+  given-names: "Clara"
+  orcid: "https://orcid.org/0000-0002-5355-4272"
+- family-names: "Bluyssen"
+  given-names: "Philomena M."
+  orcid: "https://orcid.org/0000-0002-5732-5362"
+title: "tudelft3d/Milou: Initial release"
+version: 1.0.0
+doi: 10.5281/zenodo.15082685
+date-released: 2025-03-25
+url: "https://github.com/tudelft3d/Milou"
