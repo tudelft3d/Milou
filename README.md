@@ -1,5 +1,7 @@
 # Milou: a low-cost open-source line-following robot to study indoor air
 
+[![DOI](https://zenodo.org/badge/954066816.svg)](https://doi.org/10.5281/zenodo.15082684)
+
 ![Milou](img/milou.jpg)
 
 Milou is a low-cost line-following robot that automates indoor measurements with low interference. She follows a line and stops at sampling points to measure.
